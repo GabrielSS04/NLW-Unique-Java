@@ -1,0 +1,2 @@
+# NLW-Unique-Java
+ Um projeto desenvolvido durante o evento NLW Unique na trilha de java, com a profissional Fernanda Kipper. Durante os dias de evento foi desenvolvido um prjeto para criação e controle de eventos, alem de tambem podermos criar participantes para este evento e registra-los na lista de cada evento. Foram utilizados da linguagem Java com o framework Spring Boot com as dependencias do Spring web para portas via web, Flyway, Lombok, o Banco de dados do HSQLDB e por fim o Dev tools do Spring Boot.
